@@ -29,6 +29,7 @@ public class Lab2
     public static int HexToDecimalNumber(string hexadecimal)
     {
         //TODO: To Implement
+        return -1;  //to fix 
     }
 
     /// <summary>
@@ -40,6 +41,7 @@ public class Lab2
     public static bool AreAnagrams(string str1, string str2)
     {
         //TODO: Implement
+        return false;
     }
 
 }
