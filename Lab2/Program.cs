@@ -11,6 +11,7 @@ Console.WriteLine("CPEN223 Lab 2");
 //Testing: Write some test cases to test well all methods you are to implement    
 //         This is to demonstrates what test cases you have considered
 //TODO 
+Console.WriteLine($"hex=AAA; Expected value: 2730, Returned value: {Lab2.HexToDecimalNumber("AAA")}");
 
 
 //end Testing code
